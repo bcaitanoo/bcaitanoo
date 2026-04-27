@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Beatriz Caitano
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning javascript
-- 😄 Pronouns: she/he
+
+
 
 
 <!---
