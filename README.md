@@ -58,6 +58,14 @@ Embedded system developed in **MicroPython** for real-time temperature monitorin
 
 <br>
 
+### [TRIA — Integrated Visual Component Sorting](https://github.com/GilvanTWS/TCC-PNAAT)
+
+Collaborative project developed as part of the **PNAAT 2026 final project**, focused on automation and component sorting using **computer vision, IoT, and embedded systems**. The solution integrates Raspberry Pi, OpenCV, MQTT, and ESP32-S3 for automatic component identification and routing, with monitoring through the MING stack.
+
+[![Repository](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/GilvanTWS/TCC-PNAAT)
+
+<br>
+
 ## 🔗 Contact
 
 <p align="left">
