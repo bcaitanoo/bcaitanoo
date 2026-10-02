@@ -70,7 +70,7 @@ Collaborative project developed as part of the **PNAAT 2026 final project**, foc
 
 <p align="left">
 
-<a href="https://linkedin.com/in/beatriz-caitano" target="_blank">
+<a href="https://linkedin.com/in/beatriz-caitano-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
